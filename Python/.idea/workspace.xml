@@ -19,7 +19,98 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e9c6ba1-5c02-46fb-b6e6-57640b166ed2" name="Default Changelist" comment="" />
+    <list default="true" id="3e9c6ba1-5c02-46fb-b6e6-57640b166ed2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap01/hello-version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap01/hello-working.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap01/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/blocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/hello-cwd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/hello-main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/hello-version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap02/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap03/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap03/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap03/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap04/conditional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap04/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap04/ternary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap05/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap05/bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap05/boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap05/comparison.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap05/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap06/for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap06/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap06/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap07/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap07/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap07/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap07/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap07/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap07/kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap08/comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap08/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap08/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap08/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap08/mixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap08/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap09/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap10/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap10/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap11/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap11/split-join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap12/berlin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap12/copy-bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap12/copy-text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap12/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap12/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap12/lines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap13/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap13/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap14/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap14/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap14/saytime-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap14/saytime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/bwDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/db-api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/bwCGI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/bwConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/bwDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/bwTL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/cgi-test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/data/jurl.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/data/jurl.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/db.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/db.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/delconfirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/nextprev.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/html/recline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python3/Exercise Files/Chap15/jurl/jurl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +120,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bcctRfKQjx9o1a3zKk9xjR69Fk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -64,6 +158,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="204" key="SettingsEditor" timestamp="1588937533758">
